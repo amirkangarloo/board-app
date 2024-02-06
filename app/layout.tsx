@@ -8,6 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Board App",
   description: "Create board app by Amir Kangarloo",
+  icons: './logo.svg'
 };
 
 export default function RootLayout({
